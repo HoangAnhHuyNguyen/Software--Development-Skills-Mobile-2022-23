@@ -2,4 +2,5 @@
 
 this is a QUiz App working on Android devices
 using java
-indludes a 4k video review
+includes a 4k video review
+from Finland with love
